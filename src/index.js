@@ -10,6 +10,12 @@ app.use(urlencoded({ extended: true }));
 
 app.get('/', homeController.renderHome);
 
+app.get('/convocado', homeController.renderPg1);
+
+app.get('/importante', homeController.renderPg3);
+
+
+
 app.use((err, req, res, next) => {
   console.error(err, 'Erro inesperado');
   next();
