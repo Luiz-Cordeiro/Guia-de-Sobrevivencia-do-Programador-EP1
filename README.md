@@ -12,7 +12,7 @@ Olá, dev! Esse é o repositório de um dos possíveis EPs que vocês podem faze
 ## Como rodar a aplicação
 
 ### Pré-requisitos
-* NodeJS 16: `sudo apt install nodejs`
+* NodeJS (qualquer vers: `sudo apt install nodejs`
 * NPM: `sudo apt install npm`
 * Docker: Siga as instruções nas [notas de aula](https://github.com/guia-de-sobrevivencia-do-programador/Notas-de-Aula/blob/main/8%20-%20Containers%20e%20Cloud/README.md) de docker
 
