@@ -8,14 +8,14 @@ Olá, dev! Esse é o repositório de um dos possíveis EPs que vocês podem faze
 * Antes de escolher, dê uma olhada na lista de tarefas e veja qual possui os tópicos de seu interesse. Elas são diferentes para cada EP e alguns tópicos que cobrimos durante o curso podem não estar presentes em um ou outro.
 * Escolhido o EP, você deve realizar todas as tarefas listadas, exceto as tarefas bônus (recomendamos as tarefas bônus sejam feitas também para reforçar o conteúdo do curso).
 * Marque as tarefas realizadas no README.
-* Crie um arquivo `.zip` contendo todo o código deste repositório (**não é necessário adicionar a pasta node_modules no zip**) com os arquivos adicionais das tarefas abaixo
+* Crie um arquivo `.zip` contendo todo o código deste repositório (**não é necessário adicionar a pasta node_modules no zip**) com os arquivos adicionais criados ao realizar as tarefas abaixo.
 
 ## Como rodar a aplicação
 
 ### Pré-requisitos
 * NodeJS (qualquer vers: `sudo apt install nodejs`
 * NPM: `sudo apt install npm`
-* Docker: Siga as instruções nas [notas de aula](https://github.com/guia-de-sobrevivencia-do-programador/Notas-de-Aula/blob/main/8%20-%20Containers%20e%20Cloud/README.md) de docker
+* Docker: Siga as instruções das [notas de aula](https://github.com/guia-de-sobrevivencia-do-programador/Notas-de-Aula/blob/main/8%20-%20Containers%20e%20Cloud/README.md) de docker
 
 ### Setup inicial
 
