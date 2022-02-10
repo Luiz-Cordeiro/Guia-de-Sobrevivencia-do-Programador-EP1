@@ -8,6 +8,7 @@ Olá, dev! Esse é o repositório de um dos possíveis EPs que vocês podem faze
 * Antes de escolher, dê uma olhada na lista de tarefas e veja qual possui os tópicos de seu interesse. Elas são diferentes para cada EP e alguns tópicos que cobrimos durante o curso podem não estar presentes em um ou outro.
 * Escolhido o EP, você deve realizar todas as tarefas listadas, exceto as tarefas bônus (recomendamos as tarefas bônus sejam feitas também para reforçar o conteúdo do curso).
 * Marque as tarefas realizadas no README.
+* Crie um arquivo `.zip` contendo todo o código deste repositório (**não é necessário adicionar a pasta node_modules no zip**) com os arquivos adicionais das tarefas abaixo
 
 ## Como rodar a aplicação
 
