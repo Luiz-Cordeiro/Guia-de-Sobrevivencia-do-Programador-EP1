@@ -26,3 +26,17 @@ Número USP: 9844811
 	<li> docker build --tag=juwupiter_weeb . </li>
 	<li> docker run -p 8080:3000 judocker run -p 3000:8080 juwupiter_weeb </li>
 </ul>
+
+## Shell
+
+<ul>
+	<li> Script .sh disponível em anexo </li>
+</ul>
+
+## Tarefas bônus
+
+- Substituir todas as tags do tipo `<li>` por tags do tipo `<p>`
+```
+sed -E 's/<li>/<p>/g;s/<\/li>/<\/p>/g;s/<li /<p /g' ./views/pg1.ejs | grep -E '</?p>' > paginaComSubstituicoes.ejs
+```
+
