@@ -52,5 +52,5 @@ O código que está na pasta `src` contém o código do projeto e *não deve ser
 - Tarefas bônus
     - [x] Utilizar um dos 3 editores de texto expostos nas aulas ou o comando `sed` para trocar todos as tags `<li>` em uma página por tags `<p>`
     - [x] Utilizar o GitHub para hospedar o EP e registrar o progresso em commits
-    - [ ] Utilizar o recurso de CI/CD do GitHub para verificar bugs e memory leaks no código
-    - [ ] Utilize um Volume Docker para permitir que os arquivos da pasta `views` possam ser alterados de fora do container
+    - [x] Utilizar o recurso de CI/CD do GitHub para verificar bugs e memory leaks no código
+    - [x] Utilize um Volume Docker para permitir que os arquivos da pasta `views` possam ser alterados de fora do container

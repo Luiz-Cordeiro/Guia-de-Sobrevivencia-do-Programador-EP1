@@ -33,10 +33,27 @@ Número USP: 9844811
 	<li> Script .sh disponível em anexo </li>
 </ul>
 
+<hr>
+
 ## Tarefas bônus
 
 - Substituir todas as tags do tipo `<li>` por tags do tipo `<p>`
 ```
 sed -E 's/<li>/<p>/g;s/<\/li>/<\/p>/g;s/<li /<p /g' ./views/pg1.ejs | grep -E '</?p>' > paginaComSubstituicoes.ejs
+```
+
+- Git e github
+```
+O progresso do trabalho está registrado através dos commits
+```
+
+- CI/CD do github (githooks)
+```
+Inclusão dos testes antes de qualquer commit no arquivo pre-commit
+```
+
+- Volume Docker
+```
+docker run -v volume:/opt/app/views juwupiter_weeb2
 ```
 
