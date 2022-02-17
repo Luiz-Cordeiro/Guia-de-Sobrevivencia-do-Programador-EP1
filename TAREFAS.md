@@ -30,7 +30,7 @@ Número USP: 9844811
 ## Shell
 
 <ul>
-	<li> Script .sh disponível em anexo </li>
+	<li> Script .sh (Docker_up.sh) disponível em anexo </li>
 </ul>
 
 <hr>
