@@ -24,7 +24,7 @@ Número USP: 9844811
 
 <ul>
 	<li> docker build --tag=juwupiter_weeb . </li>
-	<li> docker run -p 8080:3000 judocker run -p 3000:8080 juwupiter_weeb </li>
+	<li> docker run -p 8080:3000 juwupiter_weeb2 </li>
 </ul>
 
 ## Shell
